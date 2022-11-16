@@ -1,2 +1,4 @@
 TP GIT
-Ce tp va me permettre de monter en compétences en GIT  et GITHUBJ'ai une moustache droite
+Ce tp va me permettre de monter en compétences en GIT  et GITHUB
+
+J'ai une moustache droite
